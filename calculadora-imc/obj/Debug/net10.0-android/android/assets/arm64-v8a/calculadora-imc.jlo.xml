@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc64f46f3821d9f27270" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="calculadora_imc.MainActivity, calculadora-imc">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc64f46f3821d9f27270" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="calculadora_imc.MainApplication, calculadora-imc" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="calculadora-imc" module-name="calculadora-imc.dll">
+    <type assembly-qualified-name="calculadora_imc.MainActivity, calculadora-imc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="calculadora_imc.MainActivity" java-key="crc64f46f3821d9f27270.MainActivity" managed-key="calculadora_imc.MainActivity" partial-assembly-qualified-name="calculadora_imc.MainActivity, calculadora-imc" />
+    <type assembly-qualified-name="calculadora_imc.MainApplication, calculadora-imc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="calculadora_imc.MainApplication" java-key="crc64f46f3821d9f27270.MainApplication" managed-key="calculadora_imc.MainApplication" partial-assembly-qualified-name="calculadora_imc.MainApplication, calculadora-imc" />
+  </acw-types>
+</api>
